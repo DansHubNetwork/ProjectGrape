@@ -5,7 +5,7 @@
 | Resource    | Quick Link |
 | --------    | ------- |
 | Add Bug/Suggestion ➕    | [Click me!](https://github.com/DansHubNetwork/Roadmap/issues)    |
-| Project Grape Development Tracker 🛠️     | [Click me!](https://github.com/users/DansHubNetwork/projects/4/views/1)    |
+| Project Grape Development Tracker 🛠️     | [Click me!](https://github.com/users/DansHubNetwork/projects/9/views/2)    |
 | Project Grape Bug Tracker 🪲   | [Click me!](https://github.com/users/DansHubNetwork/projects/5)    |
 
 Use the above links to browse to the requested resource!
